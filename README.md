@@ -5,6 +5,9 @@ This project is a **3-tier web application backend** deployed on **Google Cloud 
 ## 🌐 Live Demo
 
 > 🔗 [http://34.72.193.230:8080](http://34.72.193.230:8080)
+> ⚠️ **Note:** This app is hosted on a GCP Compute Engine VM.  
+> The demo link may be temporarily unavailable if the VM is shut down to reduce costs.
+
 
 ## ✅ Features
 
